@@ -38,7 +38,7 @@ A nossa plataforma está em desenvolvimento e será publicada em breve.
 Quem ser notificado?
 Preencha o formulário abaixo e iremos lhe manter informado.
 
-<form method="POST" action="https://formspree.io/nilton@conbuss.com">
+<form method="POST" action="https://formspree.io/contato@obrasilemdados.org">
   <input type="email" name="email" placeholder="Seu e-mail">
   <input type="text" name="name" placeholder="Seu nome">
   <button type="submit">Enviar</button>
