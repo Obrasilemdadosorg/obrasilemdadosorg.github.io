@@ -1,0 +1,13 @@
+# Site settings
+title: Obrasilemdados.org
+tag_text: O<i>brasil</i>emdados<br />.org
+description: Um projeto de comunidade para trazer a público de maneira compreensível os dados públicos da sociedade brasileira.
+url: "http://127.0.0.1:4000"
+baseurl: ""
+
+font-awesome-include: true # make this false if you don't need font-awesome
+
+# Build settings
+markdown: kramdown
+
+exclude: ["README.md"]
